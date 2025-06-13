@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2025-06-01",
+    "type": "income",
+    "amount": 10000,
+    "category": "Salary",
+    "note": "Monthly salary"
+  },
+
+  {
+    "date": "2025-06-05",
+    "type": "expense",
+    "amount": 2000,
+    "category": "Rent",
+    "note": "House rent"
+  }
+]
